@@ -1,0 +1,17 @@
+/*Todos fondo dorado*/
+
+a[href^="#"]{background-color: gold;}
+
+/*Todos en cn*/
+a[href$=".cn"]{background-color: rgb(255, 0, 0);}
+
+/*Todos los span con lang en negrita*/
+
+span[lang]{font-weight: bold;}
+
+/*Todos los span en portugues en verde*/
+
+span[lang="pt"]{color:green;}
+
+/*Todos los span americano en azul*/
+span[lang~="en-us"]{color: blue;}

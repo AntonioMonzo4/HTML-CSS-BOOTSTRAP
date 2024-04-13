@@ -1,0 +1,41 @@
+
+.pescado{
+    list-style-type: "\1FA02";
+    list-style-position: outside;
+    color: blue;
+    font-weight: bolder;
+    font-style: normal;
+    text-align: justify;
+}
+.agua{
+    list-style-type:decimal;
+    list-style-position:unset;
+    color: rgb(143, 206, 244);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-indent: 5%;
+    letter-spacing: 5px;
+}
+.carne{
+    list-style-type:armenian;
+    list-style-position:inside;
+    color: red;
+}
+.fruta{
+    list-style-type:square;
+    list-style-position:initial;
+    color: rgb(0, 255, 13);
+}
+.patatas{
+    list-style-type:disc;
+    list-style-position:inherit;
+    color: rgb(242, 255, 0);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style:italic;
+    text-align: justify;
+    text-transform: uppercase;
+}
+.naranja{
+    background-color: orange;
+    list-style-type:armenian;
+    list-style-position:inside;
+}

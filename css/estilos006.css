@@ -1,0 +1,18 @@
+*{
+    border: 2px solid;
+    text-align: center;
+    margin: 20px;
+}
+
+html{
+    border: 4px solid;
+}
+
+body{
+    border: dotted;
+}
+h1,h2{background-color: pink;}
+a{background-color: yellow;}
+a.abajo{position: relative; top: 1em;}
+a.mas_abajo{position: relative; top: 2em;}
+a.mas_mas_abajo{position: relative; top: 3em;}

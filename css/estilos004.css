@@ -1,0 +1,25 @@
+.parrafo1{
+    border: 4px;
+    border-color: darkgreen;
+    border-style: solid;
+    background-color: aqua;
+    color:hotpink;
+    padding-top:50px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+    margin-right: 10px;
+    width: 50%;
+    height: 4px;
+}
+.parrafo2{
+    border: 10px;
+    border-color: rgb(238, 36, 238);
+    border-style: double;
+    background-color: rgb(92, 12, 86);
+    color:rgb(255, 255, 255);
+    padding-top:50px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+    margin: 10px;
+    width: 50%;
+}

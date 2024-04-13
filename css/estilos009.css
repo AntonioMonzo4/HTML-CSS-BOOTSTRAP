@@ -1,0 +1,18 @@
+#paginacion{
+    border: 2px solid #c91e1e;
+    background-color: #0d9a0d;
+    padding: .5em;
+    height: 50px;
+}
+.derecha{
+    float: right;
+
+}
+.izquierda{
+    float: left;
+
+}
+
+div.clear{
+    clear: both;
+}
